@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Dispence';
+    src: url('../../assets/fonts/Dispence.eot');
+    src: url('../../assets/fonts/Dispence.eot?#iefix') format('embedded-opentype'),
+        url('../../assets/fonts/Dispence.woff2') format('woff2'),
+        url('../../assets/fonts/Dispence.woff') format('woff'),
+        url('../../assets/fonts/Dispence.ttf') format('truetype'),
+        url('../../assets/fonts/Dispence.svg#Dispence') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
