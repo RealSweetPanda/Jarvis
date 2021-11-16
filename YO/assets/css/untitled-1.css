@@ -1,0 +1,64 @@
+.highlight:hover {
+  color: #006fef;
+  text-decoration: none;
+}
+
+.btn.btn-primary.text-center.text-sm-right {
+}
+
+.highlight {
+}
+
+.highlight:hover {
+  transition: 0.4s;
+  filter: brightness(1.5);
+}
+
+.highlight {
+  transition: 0.4s;
+}
+
+.grow {
+  transition: 0.4s;
+  padding: 10px;
+}
+
+.grow:hover {
+  transition: 0.4s;
+  padding: 1px;
+}
+
+.highlight:focus {
+  transition: 0.4s;
+  filter: brightness(1);
+}
+
+.bg-primary {
+  background-color: #1a252d!important;
+}
+
+.masthead.bg-primary.text-white.text-center {
+  background-color: #1a252d;
+}
+
+b {
+}
+
+hr.star-light {
+  filter: op;
+}
+
+hr {
+  max-width: 15rem;
+  padding: 0;
+  text-align: center;
+  border: none;
+  border-top: .25rem solid;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.list-group-item {
+  background-color: rgb(33,47,57);
+}
+
